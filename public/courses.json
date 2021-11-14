@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "C",
+    "review": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloremque aut perferendis laudantium sapiente voluptate?",
+    "time": 8,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIB9RGGmBt2PonMbyOzZFHmLOzymmouBi11g&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "title": "C++",
+    "review": 3.6,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloremque aut perferendis laudantium sapiente voluptate?",
+    "time": 18,
+    "img":"https://cdn.stayhappening.com/events7/banners/6d863fa574f1ce8c423232a9b859265b1ee1cff88093a618c65ea963f75127d8-rimg-w500-h500-gmir.jpg?v=1613063828"
+  },
+  {
+    "id": 3,
+    "title": "Java",
+    "review": 4.5,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloremque aut perferendis laudantium sapiente voluptate?",
+    "time": 15,
+    "img":"https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Python",
+    "review": 4.8,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloremque aut perferendis laudantium sapiente voluptate?",
+    "time": 10,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuFPgmZwW8sJrDMN-CIc4eA2fsAmVQgMjt_uF82HzirwKbgoqp5_Jik5UWI-v4uNO5wg&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "title": "Java Script",
+    "review": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloremque aut perferendis laudantium sapiente voluptate?",
+    "time": 7,
+    "img":"https://static.javatpoint.com/images/javascript/javascript_logo.png"
+  },
+  {
+    "id": 6,
+    "title": "Php",
+    "review": 3.5,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloremque aut perferendis laudantium sapiente voluptate?",
+    "time": 22,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKTzKAYZ1DFzQuC-N-hUMM4nb3RB72Mq5SpRw4FIpuw7i-twZE0dKw7OZrLKIgmnOqOt4&usqp=CAU"
+  },
+  {
+    "id": 7,
+    "title": "Android Studio",
+    "review": 4.4,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloremque aut perferendis laudantium sapiente voluptate?",
+    "time": 14,
+    "img":"https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1"
+  }
+]

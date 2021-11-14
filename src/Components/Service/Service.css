@@ -1,0 +1,13 @@
+.card{
+    box-shadow: 5px 7px 10px gray;
+}
+.review{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: gold;
+}
+.review small{
+    color: black;
+    font-weight: 600;
+}
